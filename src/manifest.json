@@ -1,0 +1,15 @@
+{
+  "name": "Days Until Summer Break",
+  "short_name": "SchoolYearOverview",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffee",
+  "theme_color": "#ffffee",
+  "icons": [
+    {
+      "src": "icon-1024.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    }
+  ]
+}
